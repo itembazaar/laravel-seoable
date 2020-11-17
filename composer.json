@@ -1,5 +1,5 @@
 {
-    "name": "mad-web/laravel-seoable",
+    "name": "timothyasp/laravel-seoable",
     "description": "Easy to map your eloquent fields to seo properties",
     "type": "library",
     "keywords": [
